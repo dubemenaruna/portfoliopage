@@ -1,0 +1,88 @@
+body{
+	background-color: #eee;
+	color: purple;
+	font-family: georgia;
+}
+header{
+	background-color: navy;
+}
+}
+.align-list{
+	margin-left: 200px;
+}
+h2 {
+	font-size: 120%;
+}
+.section1 {
+	border-bottom: 3px solid gray;
+}
+h1 {
+	font-size: 2em;
+	margin-top: 20px;
+}
+img {
+	margin: 10px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.figure-caption{
+	font-size: 40%;
+	font-style: italic;
+}
+.btn-block
+{
+	background-color: purple;
+}
+.ruud {
+	background-color: #eee;
+	border: 1px solid #eee;
+	margin: 2px;
+}
+.portfolio {
+	border-bottom: 1px solid gray
+}
+#portfolio{
+	margin-top: 20px;
+}
+#portfolio-text{
+	color:purple;
+	font-size: 60%;
+}
+.pimage{
+	justify-content: center;
+}
+.profile{
+	border-radius: 50%;
+}
+footer {
+	margin-top: 5px;
+	margin-bottom: 15px;
+	background-color: rgba(200,200,200,0.3);
+}
+.closing {
+	background-color: gray;
+	border: 1px solid gray;
+	margin: 0px;
+}
+.footertext{
+	color: white;
+	text-align: center;
+}
+#footer-below {
+	margin: 5px;
+	padding: 3px;
+	text-align: center;
+
+}
+.scroller{
+	text-align: right;
+}
+/*.scroll-top {*/
+    z-index: 1049;
+    position: fixed;
+    visibility: visible;
+    bottom: 2%;
+    right: 2%;
+}
